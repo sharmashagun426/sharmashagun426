@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/shagun-vashisth-7b93b317b/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/i_shagun_vashisth/">
+  <img src="https://img.shields.io/badge/Instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="mailto:sharmashagun426@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>

@@ -1,7 +1,11 @@
+
 <!-- HEADER -->
 <div align="center">
+
+ 
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=800&color=FF5733&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Shagun+Vashisth;💻+Senior+Software+Engineer;🚀+React.js+%7C+Next.js+%7C+TypeScript;✨+6%2B+Years+Frontend+Experience" alt="Typing Animation" />
 
+<p><em style="color:#FF5733;">“Code is like humor. When you have to explain it, it’s bad.”</em></p>
 ---
 
 <!-- SOCIAL LINKS -->
@@ -21,22 +25,16 @@
 
 ## ✨ **About Me** <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="25">
 
-💻 **Senior Software Engineer** with **6+ years** of demonstrated excellence in building **scalable, high-performance, and user-centric frontend applications**.  
-
-🚀 Adept at crafting **pixel-perfect UIs** and **reusable, maintainable components** leveraging the full power of **React.js, Next.js, and TypeScript** — delivering seamless user experiences that drive business growth.  
-
-🔥 Passionate about transforming complex challenges into elegant technical solutions, with a strong focus on **code quality, performance optimization, and clean architecture**.  
-
-🎯 Experienced mentor and collaborator who thrives in fast-paced, agile environments — empowering teams and aligning technology with strategic goals.  
-
-🌟 Always eager to learn emerging technologies and push the boundaries of frontend innovation to create impactful digital products.
+🔥 Passionate **Fullstack Developer** with 6+ years crafting **clean, scalable, and performant web apps**.  
+🚀 Expert in **React, Next.js, Node.js, and TypeScript** — delivering seamless user experiences & backend reliability.  
+💡 Driven by **clean code**, **collaboration**, and continuous learning to build impactful digital products.
 
 
 ---
 
 ## 🛠 **Tech Stack** <img src="https://cdn-icons-png.flaticon.com/512/2721/2721292.png" width="25">
 
-### 🚀 **Languages & Core**
+## 🚀 **Languages & Core**
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffdf00?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)

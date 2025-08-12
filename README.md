@@ -1,115 +1,121 @@
+<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=F7931E&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Shagun+Vashisth;Senior+Software+Engineer+%7C+React.js+%7C+Next.js+%7C+TypeScript;6%2B+Years+of+Frontend+Development+Experience" alt="Animated header" />
-
-  <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
-    <a href="https://www.linkedin.com/in/shagun-vashisth-7b93b317b/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:sharmashagun426@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://github.com/sharmashagun426" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=800&color=FF5733&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Shagun+Vashisth;💻+Senior+Software+Engineer;🚀+React.js+%7C+Next.js+%7C+TypeScript;✨+6%2B+Years+Frontend+Experience" alt="Typing Animation" />
 </div>
 
 ---
 
-<div align="center">
-  <div style="background: linear-gradient(135deg, #1e1e2f 0%, #282a36 100%); padding: 25px; border-radius: 20px; border: 1px solid #ff9800; max-width: 850px; margin: 0 auto;">
-    <p style="font-size: 18px; line-height: 1.6; color: #fff;">
-      💻 <strong>Senior Software Engineer | React.js, Next.js, TypeScript, Redux, MUI | 6+ Years</strong><br><br>
-      Passionate about building scalable, high-performance web applications with modern JavaScript frameworks. Skilled in creating pixel-perfect UI, reusable components, and integrating APIs. Adept in Agile, CI/CD, and modern testing tools to deliver quality software on time.
-    </p>
-  </div>
-</div>
+<!-- SOCIAL LINKS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shagun-vashisth-7b93b317b/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sharmashagun426@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sharmashagun426">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack & Skills
+## ✨ **About Me** <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="25">
+💻 **Senior Software Engineer** with **6+ years** of expertise in  
+**React.js, Next.js, TypeScript, Redux, Material UI** and more.  
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 40px 0;">
-
-<div style="background: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #ff9800;">
-  <h3>📜 Languages</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-    <img src="https://img.shields.io/badge/JavaScript-ffdf00?style=flat-square&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-  </div>
-</div>
-
-<div style="background: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #ff9800;">
-  <h3>⚛ Frameworks & Libraries</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs">
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux">
-    <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui">
-    <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery">
-    <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/ApexCharts-5C2D91?style=flat-square">
-    <img src="https://img.shields.io/badge/SurveyJS-FF69B4?style=flat-square">
-  </div>
-</div>
-
-<div style="background: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #ff9800;">
-  <h3>🛠 Tools & Platforms</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira">
-    <img src="https://img.shields.io/badge/ASANA-F06A6A?style=flat-square&logo=asana&logoColor=white">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white">
-  </div>
-</div>
-
-<div style="background: #0d1117; padding: 20px; border-radius: 15px; border: 1px solid #ff9800;">
-  <h3>🗄 Databases & Mobile</h3>
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 15px;">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black">
-  </div>
-</div>
-</div>
+🚀 I create **pixel-perfect UIs**, **reusable components**, and  
+deliver **high-performance web applications** with a focus on scalability and UX.  
 
 ---
 
-## 💼 Career Highlights
+## 🛠 **Tech Stack** <img src="https://cdn-icons-png.flaticon.com/512/2721/2721292.png" width="25">
 
-- 🚀 **Coforge Limited:** Built responsive apps with React.js, Next.js, TypeScript; integrated TanStack Query & D3.js for data visualization; led code reviews & mentoring.
-- 📊 **Bada Business Pvt Ltd:** Developed performance dashboards with ApexCharts, reusable UI components, role management & REST APIs.
-- 💡 **Chetu India Pvt Ltd:** Integrated APIs from Facebook, Instagram, Zoho CRM; built property management UIs with Redux.
-- 🌐 **Visiweb Solution Pvt Ltd:** Delivered custom WordPress & PHP solutions; interactive JS components.
-- 🎯 **SachTech Solution Pvt Ltd:** Assisted senior devs, gained hands-on full-stack exposure.
+### 🚀 **Languages & Core**
+![JavaScript](https://img.shields.io/badge/JavaScript-ffdf00?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📚 **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-5C2D91?style=for-the-badge)
+
+### ☁️ **Cloud & DevOps**
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
+### 📱 **Mobile Development**
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🗄 **Databases**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠 **Other Tools & Platforms**
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ASANA](https://img.shields.io/badge/Asana-F04A37?style=for-the-badge&logo=asana&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ---
 
-## 🏆 Awards & Achievements
-
-- 🏅 **Pat on the Back** – Outstanding performance (Coforge)
-- 🤝 **Team Player Recognition** – Collaboration & support
-- 🏏 **Cricket Tournament Participant** – Company level
-- 🥇 **Gold Medal** – 200m sprint (District level)
+## 💼 **Career Highlights** <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="25">
+| Company | Role | Duration | Key Work |
+|---------|------|----------|----------|
+| ![Coforge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtc_icZkglrpVHAUYtxKpRxS4qXiqHBCAYcE5nRMQioWKZskVi-R9-ofIReYmSuUF0feQ&usqp=CAU) **Coforge Limited** | Senior Software Engineer | 2024–Present | React.js + Next.js apps, TanStack Query, D3.js visualizations, mentoring |
+| ![Bada Business](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQIASj2L_SvH0crjxAYdm8umkRGaGpIINzxA&s) **Bada Business Pvt Ltd** | Senior Frontend Dev | 2022–2024 | Performance dashboards with ApexCharts, reusable UI, role-based access |
+| ![Chetu India Pvt Ltd](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9H3ba4pot1wDE3nURwkeLusH2iDqcygiWoA&s) **Chetu India Pvt Ltd** | Software Engineer | 2021–2022 | Facebook/Instagram API integration, property management UIs |
+| **Visiweb Solution** | Web Developer | 2020–2021 | WordPress/PHP projects, interactive JS |
+| ![SachTech Solution](https://i.ytimg.com/vi/e5JsosumVkI/maxresdefault.jpg) **SachTech Solution Pvt Ltd** | Web Dev Trainee | 2019-2019 | Full-stack development support |
 
 ---
 
-## 🧠 My Development Workflow
+## 🏆 **Awards & Achievements** <img src="https://cdn-icons-png.flaticon.com/512/3135/3135741.png" width="25">
+- 🏅 **Pat on the Back** – Outstanding Performance (Coforge)  
+- 🤝 **Team Player Award** – Collaboration & Support  
+- 🏏 Cricket Tournament – Company Level  
+- 🥇 Gold Medal – 200m Sprint (District Level)  
 
-```mermaid
-graph LR
-  A[Requirement Analysis] --> B(System Design)
-  B --> C[Tech Stack Selection]
-  C --> D[Implementation]
-  D --> E{Testing with Jest}
-  E --> F[CI/CD with Azure DevOps]
-  F --> G[Monitoring & Feedback]
-  G --> H[Continuous Improvement]
-  H --> A
+---
+
+## 📊 **GitHub Stats** <img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="25">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharmashagun426&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharmashagun426&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 📈 **Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmashagun426&theme=github-compact" />
+</p>
+
+---
+
+## 📂 **Featured Projects** <img src="https://cdn-icons-png.flaticon.com/512/1829/1829942.png" width="25">
+- 🔗 **[Volcafe EUDR Project](#)** – Data visualization with D3.js, TanStack Query integration  
+- 🔗 **[Performance Dashboard](#)** – ApexCharts, reusable UI, and role-based access  
+- 🔗 **[Novuskin Med Spa Dashboard](#)** – Integrated multiple APIs for marketing & CRM data  
+
+---
+
+<p align="center">
+  <sub>💡 *“Clean code is not just about writing code that works, but writing code that lasts.”*</sub>
+</p>
